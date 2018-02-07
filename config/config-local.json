@@ -7,5 +7,6 @@
         "database"	: "expencedb",
         "username"	: "",
         "password"	: ""
-    }
+    },
+    "secret": "vatsaly_patel"
 }
